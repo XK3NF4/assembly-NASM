@@ -1,4 +1,6 @@
 # Notas de assembly NASM
+<img width="128" height="128" alt="nasm-logo" src="https://github.com/user-attachments/assets/0f9eddb5-b36d-4ed8-aefc-984ec184870c" />
+
 
 ## Ensamblar
 
