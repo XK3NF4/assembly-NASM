@@ -8,7 +8,7 @@ lea rax, [rsp+5]
 ```
 
 mientras  que `mov` al usar `[]` cargara el valor final de la dirección `rsp + 5`
-```
+```nasm
 mov rax, [rsp+5]
 ```
 
