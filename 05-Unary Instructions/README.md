@@ -14,7 +14,7 @@ ahora `rax` pasa a valer 3 (2 + 1).
 y lo mismo ocurre con `dec`
 supongamos que `rbx = 2`
 
-```
+```nasm
 dec rbx
 ```
 
