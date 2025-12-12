@@ -5,4 +5,4 @@ _start:
     mov rax, 2
     mov rbx, 2
     inc rax
-    inc rbx
+    dec rbx
