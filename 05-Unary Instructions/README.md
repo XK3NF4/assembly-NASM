@@ -20,3 +20,4 @@ dec rbx
 
 en este caso `rbx` pasa a valer 1 (2 - 1)
 
+<img width="612" height="182" alt="image" src="https://github.com/user-attachments/assets/2fa1b6ad-8e60-4d52-af72-6fcb12598040" />
