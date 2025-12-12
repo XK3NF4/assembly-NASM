@@ -21,7 +21,7 @@ sub rax, rbx
 
 la instruccion `imul` multiplica el origen por el destino.
 
-```
+```nasm
 imul rax, rbx
 ; rax = 2 (2 x 1)
 ```
